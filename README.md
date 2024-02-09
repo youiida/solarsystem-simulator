@@ -19,6 +19,8 @@ English follows Japanese.
 
 このプロジェクトはMITライセンスの下で公開されています。
 
+## 日本語解説
+https://qiita.com/youiida/items/d59e2b09a402013a38c3
 
 # Mars Close Approach Simulation
 
